@@ -1,0 +1,6 @@
+第一次提交本地文件到远程仓库：
+1.git init 初始化文件夹
+2.git add .
+3.git commit -m '说明'  //本地提交
+4.git remote add origin 'https://github.com/LookIntoyoureyes/git.git' //同步到远程
+5.git push -u origin master
